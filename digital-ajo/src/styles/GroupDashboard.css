@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.upload-label {
+  color: #2196F3;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.upload-label:hover {
+  color: #0d8bf2;
+}

@@ -1,0 +1,5 @@
+/* Add any specific styles for JoinGroup here */
+.join-form {
+  max-width: 500px;
+  margin: 0 auto;
+}

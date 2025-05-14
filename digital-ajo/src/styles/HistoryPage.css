@@ -1,0 +1,8 @@
+/* Add any specific styles for HistoryPage here */
+.history-table {
+  width: 100%;
+}
+
+.history-table a {
+  margin-right: 10px;
+}
